@@ -162,6 +162,7 @@ lines(x.val2,ac2,col="red")
 delka_Vozu <- Cars93$Length
 
 
+
 summary(delka_Vozu)
 hist(delka_Vozu, plot = F)
 
@@ -208,6 +209,8 @@ z.val<-scale(delka)
   # Jak jsou velke? Co popisuji? K cemu se pouzivaji?
 
 # Caharakteristiky tvaru rozdeleni
+hist(delka)
+boxplot(delka)
 Skew(delka)
 Kurt(delka)
   # Kolik vysly a co rikaji o tvaru rozdeleni?

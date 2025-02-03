@@ -92,8 +92,10 @@ round(t, 2)
 
 # Jaky graf byste pouzili pro nominalni promennou?
 ## POZOR: Kazdy graf musi mit nazev a oznaceni os, jinak se krati body!!!
+
 barplot(table(Por.poh),col=2:5,main="Sloupcovy graf")
-  # sloupcovy graf
+# sloupcovy graf
+
 pie(table(Por.poh),col=2:5,main="Kolacovy graf")
   # kolacovy graf
 # popisky jednotlivych bodu
