@@ -144,6 +144,11 @@ load("Cars.RData")
             ylab="Sila vozu",range = 3)
     # graf bez odlehlych pozorovani
     
+    #histogram
+    hist(hp, col="skyblue",border="darkblue",main="Histogram",ylab="Hustota",
+         xlab="Síla vozu (hp)",breaks=15,freq = F)
+    (jadro <- density(hp))
+    lines(jadro,col=2, lwd = 3)
     summary(hp)
     library(DescTools)
     # knihovna s uzitecnymi prikazy na popisne statistiky

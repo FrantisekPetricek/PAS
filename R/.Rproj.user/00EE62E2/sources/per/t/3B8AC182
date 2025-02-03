@@ -3,7 +3,7 @@
     "path": "C:/Users/petri/Desktop/Vysoká_skola/PAS/R/Cviceni10.R",
     "project_path": "Cviceni10.R",
     "type": "r_source",
-    "hash": "3330820686",
+    "hash": "1467215979",
     "contents": "",
     "dirty": false,
     "created": 1736701844326.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,20",
+        "cursorPosition": "177,2",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1736719319,
+    "lastKnownWriteTime": 1738591130,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1736719319165,
+    "last_content_update": 1738591130953,
     "read_only": false,
     "read_only_alternatives": []
 }

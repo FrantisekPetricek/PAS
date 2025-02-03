@@ -205,3 +205,5 @@ vif(Model3)
   # testuje se multikolinearita - nemelo by byt vetsi nez 5 
 avPlots(Model3) 
   # testuje se efekt pridani dalsi promenne
+
+predict()
